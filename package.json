@@ -1,0 +1,16 @@
+{
+  "name": "@santifedericoni/lotide",
+  "version": "1.0.0",
+  "description": "lotide librery lighthouse",
+  "main": "nameInverterTest.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Santiago Federiconi",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  }
+}
